@@ -1,1 +1,3 @@
-# Fotograf-a-animal
+# Fotografía-animal
+Las mariposas
+En la fotografía de cerca el fotógrafo tiene que hacer frente a múltiples problemas: pérdida de luminosidad debida a la prolongación de la distancia focal, riesgo de imagen movida por el fuerte aumento, y profundidad de campo redondísima. Cuando se fotografían mariposas el problema de la profundidad de campo se puede solventar de dos maneras, captando a la mariposa de perfil con las alas juntas, o fotografiándose por detrás, con las alas desplegadas por completo. En ambos casos es fácil enfocar al insecto de manera que las alas estén en el mismo plano, casi perpendiculares al eje de la toma. 
